@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/MetricToSanityConversion/MetricToSanityConversion.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/MetricToSanityConversion/MetricToSanityConversion.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/MetricToSanityConversion/app/app.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/MetricToSanityConversion/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/MetricToSanityConversion/conversion/conversion.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/MetricToSanityConversion/conversion/conversion.iml" />
+    </modules>
+  </component>
+</project>
